@@ -1,3 +1,5 @@
+[:heart: Sponsor](https://github.com/sponsors/ouarrho)
+
 # Hi there 👋
 - 👨‍💻 I'm Oualid, a developer with a passion for making the world a better place through technology. I started my coding journey in 2011 and have been exploring the possibilities of programming ever since. I'm also a big fan of science, and love learning about maths, philosophy, history, physics, chemistry, biology, and more.
 - 🏢 Software Architect, Database Designer, Researcher, Analyst, Developer.
@@ -21,12 +23,6 @@
 
 - This project aims to bring the best of both worlds together and to make computing more powerful, scalable, and secure.
 
-# 🔥 About Zeryab
-- I'm currently working on a project called Zeryab, which is a tool that gives users the ability to create beautiful apps easily. Zeryab is built with Node.js, Rust, and other programming languages, and it includes a variety of tools and features to help developers build better apps faster with their preferred programming language.
-
-# 🦞 Rustacean
-- I'm a Rustacean and I'm really interested in Rust as a programming language. I find Rust to be a powerful and expressive language that's well-suited for a wide range of applications, including systems programming, web development, and more.
-
 # 🌳 Garden Of Eden 🍎
 - Welcome to Garden of Eden, the new world where you can explore, mine, purchase, sell, and bid on precious assets like gold, silver, gemstones, and lands. 
 - What sets us apart is that important part of the value of these assets comes from the real world, ensuring credibility and trust. 
@@ -34,6 +30,12 @@
 - Our mission is to create a safe and peaceful haven where everyone is welcome, regardless of their background, race, or gender. But we're not just a platform for exploring and investing in precious assets. We're also committed to creating a world where wealth is always active and growing. By contributing to real businesses and making safe investments in various domains, we ensure the continuity and growth of our collective wealth. 
 - we will be happy by joining us today and become a part of a community that values security, trust, and growth. Together, we can create a new world where everyone has the opportunity to thrive. 
 - Join us today and become an Edner! ❤️
+
+# 🔥 About Zeryab
+- I'm currently working on a project called Zeryab, which is a tool that gives users the ability to create beautiful apps easily. Zeryab is built with Node.js, Rust, and other programming languages, and it includes a variety of tools and features to help developers build better apps faster with their preferred programming language.
+
+# 🦞 Rustacean
+- I'm a Rustacean and I'm really interested in Rust as a programming language. I find Rust to be a powerful and expressive language that's well-suited for a wide range of applications, including systems programming, web development, and more.
 
 # 🕯 My Vision
 - 🔭 I am passionate about exploring the universe and all forms of science and love exploring various fields like maths, philosophy, history, physics, chemistry, biology, and much more. I believe that technology can help us reach new heights and explore the vast universe.
