@@ -1,4 +1,5 @@
 [:heart: Sponsor](https://github.com/sponsors/ouarrho)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/<username>)
 
 # Hi there 👋
 - 👨‍💻 I'm Oualid, a developer with a passion for making the world a better place through technology. I started my coding journey in 2011 and have been exploring the possibilities of programming ever since. I'm also a big fan of science, and love learning about maths, philosophy, history, physics, chemistry, biology, and more.
