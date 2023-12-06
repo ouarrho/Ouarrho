@@ -2,12 +2,12 @@
 - [:heart: Sponsor](https://github.com/sponsors/ouarrho)
 
 # Hi there 👋
-- 👨‍💻 I'm Oualid, a developer with a passion for making the world a better place through technology. I started my coding journey in 2011 and have been exploring the possibilities of programming ever since. I'm also a big fan of science, and love learning about maths, philosophy, history, physics, chemistry, biology, and more.
-- 🏢 Software Architect, Database Designer, Researcher, Analyst, Developer.
+- 👨‍💻 I'm Oualid, a software architect with a passion for making the world a better place through technology. I started my coding journey in 2010 and have been exploring the possibilities of programming ever since. I'm also a big fan of science, and love learning about maths, philosophy, history, physics, chemistry, biology, and more.
+- 🏢 Software Architect, Researcher.
 - 📍 Kenitra, Morocco.
 
 # 🥇 My Expertise
-- I possess a versatile skill set in programming languages such as JavaScript, Rust, SQL, Java, Solidity, and PHP. My expertise lies in JavaScript, with proficiency in utilizing a broad range of frameworks and tools, including Node.js, Deno, React, Vue, Svelte, Solid, Qwik, Express.js, Astro.js, jQuery, Electron, Tauri, and many others. As a passionate Rust developer, I am deeply intrigued by its ability to create resilient and high-performing applications.
+- I possess a versatile skill set in programming languages such as JavaScript, Rust, SQL, Java, Solidity, and PHP. My expertise lies in JavaScript, with proficiency in utilizing a broad range of frameworks and tools, including Node.js, Deno, React, Vue, Svelte, Solid, Qwik, Express.js, Astro.js, jQuery, Electron, Tauri, and many others. As a passionate Rust, I am deeply intrigued by its ability to create resilient and high-performing applications.
 
 # ⛓️ Blockchain Enthusiast
 - I'm also deeply interested in blockchain technology and cryptocurrencies. I believe that blockchain has the potential to revolutionize the way we transact and interact with each other, and I'm committed to exploring the possibilities and addressing the current challenges with blockchain.
@@ -47,6 +47,6 @@
 - If you're interested in collaborating with me on any of my projects or if you just want to chat, feel free to reach out to me via email.
 * Email: oua.oualid@gmail.com
 
-- I'm always happy to connect with other developers, researchers, and innovators who share my passion for using technology to make the world a better place.
+- I'm always happy to connect with other s, researchers, and innovators who share my passion for using technology to make the world a better place.
 
 # ❤ God Bless You All ❤
