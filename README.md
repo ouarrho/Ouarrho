@@ -7,7 +7,7 @@
 - 📍 Kenitra, Morocco.
 
 # 🥇 My Expertise
-- I possess a versatile skill set in programming languages such as JavaScript, Rust, SQL, Java, Solidity, and PHP. My expertise lies in JavaScript, with proficiency in utilizing a broad range of frameworks and tools, including Node.js, Deno, React, Vue, Svelte, Solid, Qwik, Express.js, Astro.js, jQuery, Electron, Tauri, and many others. As a passionate Rust, I am deeply intrigued by its ability to create resilient and high-performing applications.
+- I possess a versatile skill set in programming languages such as JavaScript, Rust, SQL, Solidity, and much more. My expertise lies in JavaScript, with proficiency in utilizing a broad range of frameworks and tools, including Node.js, React, Astro.js, NestJS, React Native, Tauri, and many others. As a passionate Rust, I am deeply intrigued by its ability to create resilient and high-performing applications.
 
 # ⛓️ Blockchain Enthusiast
 - I'm also deeply interested in blockchain technology and cryptocurrencies. I believe that blockchain has the potential to revolutionize the way we transact and interact with each other, and I'm committed to exploring the possibilities and addressing the current challenges with blockchain.
@@ -31,9 +31,6 @@
 - Our mission is to create a safe and peaceful haven where everyone is welcome, regardless of their background, race, or gender. But we're not just a platform for exploring and investing in precious assets. We're also committed to creating a world where wealth is always active and growing. By contributing to real businesses and making safe investments in various domains, we ensure the continuity and growth of our collective wealth. 
 - we will be happy by joining us today and become a part of a community that values security, trust, and growth. Together, we can create a new world where everyone has the opportunity to thrive. 
 - Join us today and become an Edner! ❤️
-
-# 🔥 About Zeryab
-- I'm currently working on a project called Zeryab, which is a tool that gives users the ability to create beautiful apps easily. Zeryab is built with Node.js, Rust, and other programming languages, and it includes a variety of tools and features to help developers build better apps faster with their preferred programming language.
 
 # 🦞 Rustacean
 - I'm a Rustacean and I'm really interested in Rust as a programming language. I find Rust to be a powerful and expressive language that's well-suited for a wide range of applications, including systems programming, web development, and more.
